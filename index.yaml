@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-12T18:28:38.507449+05:30
+    description: A Helm chart for Kubernetes
+    digest: 99488b75101041faeea75c806ba178be93e80b8043c9f255cb1b751dd86dafc9
+    name: my-app
+    urls:
+    - my-app/my-app-0.1.0.tgz
+    version: 0.1.0
+  nginx_v1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-12T18:28:38.506393+05:30
+    description: A Helm chart for Kubernetes
+    digest: 4b63dc1ad27c2f20cd8a5ce2cc094dad3b2d88d9a8b87650ff81f968a55f54a0
+    name: nginx_v1
+    urls:
+    - nginx_v1-0.1.0.tgz
+    version: 0.1.0
+  nginx_v2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-12T18:28:38.507146+05:30
+    description: A Helm chart for Kubernetes
+    digest: 9c0bd3ae6227127cc7db937b2c635b007ce5f7ca12e975cd71e2350deeba4423
+    name: nginx_v2
+    urls:
+    - nginx_v2-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-12T18:28:38.505865+05:30
